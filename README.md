@@ -6,15 +6,14 @@
 ---
 ## Papers with Project Pages
 
-### 2D Motion
-* https://github.com/AliaksandrSiarohin/first-order-model
+### Motion and/or Novel View Synthesis
+* [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 * 
 
-### 3D Motion
-
 ### Motion Retargeting & Representation
-* https://github.com/limaosen0/DMGNN
-* https://yzhq97.github.io/transmomo/
+* [Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
+* [TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)
+* 
 
 ---
 ## Literature
