@@ -16,8 +16,8 @@
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
 
 ---
-## Literature
-
+## Literature (no first-party implementation)
+Third party implementations will be put in second-order bullet points
 ### Architectural
 
 ### Representation
