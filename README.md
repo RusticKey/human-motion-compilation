@@ -35,7 +35,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[ICCV 2019]** PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [**[CVPR 2019]** Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
-* [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding] (https://github.com/QianliM/CAPE)
+* [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding](https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
 
 ---
