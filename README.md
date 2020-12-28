@@ -7,7 +7,7 @@
   
 Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
-  * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction
+  * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction. May also include temporally-coherent pose estimation
   * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
  
  Papers that do not have first-party implementations are put into another category with two sub-categories:
@@ -28,6 +28,7 @@ Papers are also split into several sub-categories (ones with the project page):
 ### Motion Retargeting, Representation, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
 * [**[CVPR 2020]** TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)
+* [**[CVPR 2020]** Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020)
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
 
 ### 3D Human Digitization
