@@ -8,7 +8,7 @@
 
 ### Novel View Synthesis
 * [**[NeurIPS 2019]** First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
-* 
+* [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
 
 ### Motion Retargeting, Representation, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
@@ -18,6 +18,10 @@
 ---
 ## Literature
 
-pass
+### Architecture
+
+### Loss Function
+
+### Training
 
 ---
