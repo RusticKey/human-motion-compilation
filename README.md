@@ -8,7 +8,7 @@
   Papers should be chronologically ordered. This project page is only intended to supplement my studies and research where everything is (hopefully nicely) organized into one place. Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
   * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction
-  * Textured 3D Human Reconstruction - From a single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
+  * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
  
  Papers that do not have first-party implementations are put into another category with two sub-categories:
   * Architectural - Contribution is mainly about architecture
@@ -27,7 +27,8 @@
 * [**[CVPR 2020]** TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
 
-### Textured 3D Human Reconstruction
+### 3D Human Digitization
+* [**[ICCV 2019]** PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 
 ---
 ## Literature (no first-party implementation)
