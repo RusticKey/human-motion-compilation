@@ -7,7 +7,7 @@
 ## Papers with Project Pages
 
 ### Motion and/or Novel View Synthesis
-* [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
+* [[NeurIPS 2019]First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 * 
 
 ### Motion Retargeting & Representation
