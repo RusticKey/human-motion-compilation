@@ -1,2 +1,16 @@
-# human-motion-compilation
-Literature review and compilation for human motion synthesis and human novel view synthesis
+# Human Motion and Novel View Synthesis Compilation
+
+## What is this?
+pass
+
+---
+## Papers with Project Pages
+
+pass
+
+---
+## Literature
+
+pass
+
+---
