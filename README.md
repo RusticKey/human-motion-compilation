@@ -11,8 +11,10 @@
 ## Papers with Project Pages
 
 ### Novel View Synthesis
+* [**[ICCV 2019]** Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://svip-lab.github.io/project/impersonator.html)
 * [**[NeurIPS 2019]** First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 * [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
+* [**[Under Review IEEE TPAMI 2020]** Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis](https://www.impersonator.org/work/impersonator-plus-plus.html)
 
 ### Motion Retargeting, Representation, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
