@@ -18,10 +18,7 @@
 ---
 ## Literature
 
-### Architecture
+### Architectural
 
-### Loss Function
-
-### Training
-
+### Representation
 ---
