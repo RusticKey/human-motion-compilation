@@ -5,7 +5,7 @@
   * Spatial Transformation (using flow information, etc)
   * Conditioned Generation (pose label map, etc)
   
-  Papers should be chronologically ordered. This project page is only intended to supplement my studies and research where everything is (hopefully nicely) organized into one place. Papers are also split into several sub-categories (ones with the project page):
+Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
   * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction
   * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
@@ -13,6 +13,9 @@
  Papers that do not have first-party implementations are put into another category with two sub-categories:
   * Architectural - Contribution is mainly about architecture
   * Representation - Contribution is related to information representation, spatial representation, or feature extraction methods
+  
+  This project page is only intended to supplement my studies and research where everything is (hopefully nicely) organized into one place. 
+  
 ---
 ## Papers with Project Pages
 
