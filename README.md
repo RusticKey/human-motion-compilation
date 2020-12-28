@@ -9,7 +9,8 @@
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
   * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction
   * Textured 3D Human Reconstruction - From a single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
-  Papers that do not have first-party implementations are put into another category with two sub-categories:
+ 
+ Papers that do not have first-party implementations are put into another category with two sub-categories:
   * Architectural - Contribution is mainly about architecture
   * Representation - Contribution is related to information representation, spatial representation, or feature extraction methods
 ---
