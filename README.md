@@ -32,6 +32,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
 
 ### 3D Human Digitization
+* [**[ICCV 2019]** DeepHuman: 3D Human Reconstruction from a Single Image](http://www.liuyebin.com/deephuman/deephuman.html)
 * [**[ICCV 2019]** PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [**[CVPR 2019]** Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
