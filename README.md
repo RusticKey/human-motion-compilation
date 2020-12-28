@@ -6,7 +6,7 @@
   * Conditioned Generation (pose label map, etc)
   
 Papers are also split into several sub-categories (ones with the project page):
-  * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
+  * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose, may be a single picture or a video
   * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction. May also include temporally-coherent pose estimation
   * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and/or shape inference from unseen angles
  
