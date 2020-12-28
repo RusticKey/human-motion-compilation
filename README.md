@@ -39,6 +39,10 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding](https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
 
+### Datasets
+* [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
+* [Mixamo](https://www.mixamo.com/#/)
+* [THuman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
 ---
 ## Literature (no first-party implementation)
 Third party implementations will be put in second-order bullet points
@@ -46,5 +50,3 @@ Third party implementations will be put in second-order bullet points
 
 ### Representation
 ---
-## Datasets
-* 
