@@ -8,7 +8,7 @@
 Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose
   * Motion Retargeting, Representation, Continuation - This category is about the modeling of human motion as well as skeletal prediction. May also include temporally-coherent pose estimation
-  * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and shape inference from unseen angles
+  * 3D Human Digitization - From a(n ideally) single image, this category deals with 3D human generation along with texture and/or shape inference from unseen angles
  
  Papers that do not have first-party implementations are put into another category with two sub-categories:
   * Architectural - Contribution is mainly about architecture
@@ -35,6 +35,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[ICCV 2019]** PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [**[CVPR 2019]** Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
+* [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding] (https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
 
 ---
