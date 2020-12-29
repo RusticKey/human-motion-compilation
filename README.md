@@ -47,6 +47,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
 * [Mixamo](https://www.mixamo.com/#/)
 * [THuman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
+* [DFAUST](https://dfaust.is.tue.mpg.de/)
 ---
 ## Papers without first-party implementations
 Third party implementations (if any) will be put in second-order bullet points
