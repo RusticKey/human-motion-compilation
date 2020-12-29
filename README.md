@@ -50,7 +50,7 @@ Papers are also split into several sub-categories (ones with the project page):
 ---
 ## Literature (no first-party implementation)
 Third party implementations will be put in second-order bullet points
-### Architectural
+### Architectural / Training
 * [**[arXiv 2020]** Human Motion Transfer from Poses in the Wild](https://arxiv.org/pdf/2004.03142.pdf)
 * [**[ICCVW 2019]** Dance Dance Generation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Zhou_Dance_Dance_Generation_Motion_Transfer_for_Internet_Videos_ICCVW_2019_paper.pdf)
 ### Representation
