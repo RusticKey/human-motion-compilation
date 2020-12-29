@@ -20,7 +20,9 @@ Papers are also split into several sub-categories (ones with the project page):
 ## Papers with Project Pages
 
 ### Novel View Synthesis
+* [**[ICCV 2019]** Everybody Dance Now](https://carolineec.github.io/everybody_dance_now/)
 * [**[ICCV 2019]** Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://svip-lab.github.io/project/impersonator.html)
+* [**[CVPR 2019]** Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer)
 * [**[NeurIPS 2019]** First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 * [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
 * [**[Under Review IEEE TPAMI 2020]** Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis](https://www.impersonator.org/work/impersonator-plus-plus.html)
@@ -29,6 +31,8 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
 * [**[CVPR 2020]** TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)
 * [**[CVPR 2020]** Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020)
+* [**[SIGGRAPH 2020]** XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera](https://gvv.mpi-inf.mpg.de/projects/XNect/)
+* [**[IEEE FnG+TBIOM 2020]** Head2Head: Video-based Neural Head Synthesis](https://github.com/michaildoukas/head2head)
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
 
 ### 3D Human Digitization
@@ -47,6 +51,8 @@ Papers are also split into several sub-categories (ones with the project page):
 ## Literature (no first-party implementation)
 Third party implementations will be put in second-order bullet points
 ### Architectural
-
+* [**[arXiv 2020]** Human Motion Transfer from Poses in the Wild](https://arxiv.org/pdf/2004.03142.pdf)
+* [**[ICCVW 2019]** Dance Dance Generation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Zhou_Dance_Dance_Generation_Motion_Transfer_for_Internet_Videos_ICCVW_2019_paper.pdf)
 ### Representation
+* [**[arXiv 2020]** Human Motion Transfer with 3D Constraints and Detail Enhancement](https://arxiv.org/abs/2003.13510)
 ---
