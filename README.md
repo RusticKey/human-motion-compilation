@@ -54,5 +54,6 @@ Third party implementations will be put in second-order bullet points
 * [**[arXiv 2020]** Human Motion Transfer from Poses in the Wild](https://arxiv.org/pdf/2004.03142.pdf)
 * [**[ICCVW 2019]** Dance Dance Generation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Zhou_Dance_Dance_Generation_Motion_Transfer_for_Internet_Videos_ICCVW_2019_paper.pdf)
 ### Representation
+* [**[CVPR 2019]** Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Grigorev_Coordinate-Based_Texture_Inpainting_for_Pose-Guided_Human_Image_Generation_CVPR_2019_paper.pdf)
 * [**[arXiv 2020]** Human Motion Transfer with 3D Constraints and Detail Enhancement](https://arxiv.org/abs/2003.13510)
 ---
