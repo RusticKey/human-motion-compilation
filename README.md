@@ -48,7 +48,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [Mixamo](https://www.mixamo.com/#/)
 * [THuman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
 * [DFAUST](https://dfaust.is.tue.mpg.de/)
----
+
 ## Papers without first-party implementations
 Third party implementations (if any) will be put in second-order bullet points
 ### Architectural / Training
@@ -58,7 +58,7 @@ Third party implementations (if any) will be put in second-order bullet points
 * [**[CVPR 2018]** Synthesizing Images of Humans in Unseen Poses](https://openaccess.thecvf.com/content_cvpr_2018/papers/Balakrishnan_Synthesizing_Images_of_CVPR_2018_paper.pdf)
 * [**[CVPR 2019]** Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Grigorev_Coordinate-Based_Texture_Inpainting_for_Pose-Guided_Human_Image_Generation_CVPR_2019_paper.pdf)
 * [**[arXiv 2020]** Human Motion Transfer with 3D Constraints and Detail Enhancement](https://arxiv.org/abs/2003.13510)
----
+
 ## Literature
 Papers that are important for human motion and novel view synthesis tasks
 * [Self-Attention GAN](https://arxiv.org/abs/1805.08318)
