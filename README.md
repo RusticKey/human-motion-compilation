@@ -2,6 +2,7 @@
 <p align="center" width="100%">
     <img src="https://github.com/RusticKey/human-motion-compilation/blob/main/assets/teaser-impersonator.gif"> 
 </p>
+
 ## What is this?
   This project page is a collection of papers (and possibly code) that has something to do with human motion and novel view synthesis in 2D and 3D space. There are two major classes of methods when doing it in 2D space:
   * Spatial Transformation (using flow information, etc)
