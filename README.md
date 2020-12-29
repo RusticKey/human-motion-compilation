@@ -27,7 +27,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
 * [**[Under Review IEEE TPAMI 2020]** Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis](https://www.impersonator.org/work/impersonator-plus-plus.html)
 
-### Motion Retargeting, Representation, Continuation
+### Human Motion Representation, Retargeting, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
 * [**[CVPR 2020]** TransMoMo: Invariance-Driven Unsupervised Video Motion Retargeting](https://yzhq97.github.io/transmomo/)
 * [**[CVPR 2020]** Attention Mechanism Exploits Temporal Contexts: Real-time 3D Human Pose Reconstruction](https://sites.google.com/a/udayton.edu/jshen1/cvpr2020)
