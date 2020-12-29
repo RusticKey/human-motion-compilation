@@ -1,7 +1,7 @@
 # Human Motion and Novel View Synthesis Compilation
 
 ## What is this?
-  This project page is a collection of papers (and possibly code) that has something to do with human motion synthesis and novel view synthesis in 2D and 3D space. There are two major method classes when doing it in 2D space:
+  This project page is a collection of papers (and possibly code) that has something to do with human motion and novel view synthesis in 2D and 3D space. There are two major classes of methods when doing it in 2D space:
   * Spatial Transformation (using flow information, etc)
   * Conditioned Generation (pose label map, etc)
   
@@ -48,8 +48,8 @@ Papers are also split into several sub-categories (ones with the project page):
 * [Mixamo](https://www.mixamo.com/#/)
 * [THuman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
 ---
-## Literature (no first-party implementation)
-Third party implementations will be put in second-order bullet points
+## Papers without first-party implementations
+Third party implementations (if any) will be put in second-order bullet points
 ### Architectural / Training
 * [**[arXiv 2020]** Human Motion Transfer from Poses in the Wild](https://arxiv.org/pdf/2004.03142.pdf)
 * [**[ICCVW 2019]** Dance Dance Generation](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HBU/Zhou_Dance_Dance_Generation_Motion_Transfer_for_Internet_Videos_ICCVW_2019_paper.pdf)
@@ -57,3 +57,8 @@ Third party implementations will be put in second-order bullet points
 * [**[CVPR 2019]** Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Grigorev_Coordinate-Based_Texture_Inpainting_for_Pose-Guided_Human_Image_Generation_CVPR_2019_paper.pdf)
 * [**[arXiv 2020]** Human Motion Transfer with 3D Constraints and Detail Enhancement](https://arxiv.org/abs/2003.13510)
 ---
+## Literature
+Papers that are important for human motion and novel view synthesis tasks
+* [Self-Attention GAN](https://arxiv.org/abs/1805.08318)
+* [pix2pix](https://phillipi.github.io/pix2pix/) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
+* [vid2vid](https://github.com/NVIDIA/vid2vid)
