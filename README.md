@@ -44,6 +44,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[ICCV 2019]** DeepHuman: 3D Human Reconstruction from a Single Image](http://www.liuyebin.com/deephuman/deephuman.html)
 * [**[ICCV 2019]** PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://shunsukesaito.github.io/PIFu/)
 * [**[CVPR 2019]** Photo Wake-Up: 3D Character Animation from a Single Photo](https://grail.cs.washington.edu/projects/wakeup/)
+* [**[CVPR 2019]** Textured Neural Avatars](https://saic-violet.github.io/texturedavatar/)
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
 * [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding](https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
