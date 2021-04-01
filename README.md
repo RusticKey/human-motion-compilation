@@ -22,7 +22,7 @@ Papers are also split into several sub-categories (ones with the project page):
 ---
 ## Papers with Project Pages
 
-### Human Novel View Synthesis
+### Human Motion and Novel View Synthesis
 * [**[ICCV 2019]** Everybody Dance Now](https://carolineec.github.io/everybody_dance_now/)
 * [**[ICCV 2019]** Liquid Warping GAN: A Unified Framework for Human Motion Imitation, Appearance Transfer and Novel View Synthesis](https://svip-lab.github.io/project/impersonator.html)
 * [**[CVPR 2019]** Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer)
