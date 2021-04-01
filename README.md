@@ -29,6 +29,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[NeurIPS 2019]** First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
 * [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
 * [**[Under Review IEEE TPAMI 2020]** Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis](https://www.impersonator.org/work/impersonator-plus-plus.html)
+* [**[CVPR 2021]** Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling](https://arxiv.org/pdf/2103.14338.pdf)
 
 ### Human Motion Representation, Retargeting, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
