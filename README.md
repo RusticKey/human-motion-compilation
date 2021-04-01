@@ -64,9 +64,3 @@ Third party implementations (if any) will be put in second-order bullet points
 * [**[CVPR 2019]** Coordinate-based Texture Inpainting for Pose-Guided Human Image Generation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Grigorev_Coordinate-Based_Texture_Inpainting_for_Pose-Guided_Human_Image_Generation_CVPR_2019_paper.pdf)
 * [**[arXiv 2020]** Human Motion Transfer with 3D Constraints and Detail Enhancement](https://arxiv.org/abs/2003.13510)
 * [**[CVPR 2021]** SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/pdf/2103.06871.pdf)
-
-## Literature
-Papers that are important for human motion and novel view synthesis tasks
-* [Self-Attention GAN](https://arxiv.org/abs/1805.08318)
-* [pix2pix](https://phillipi.github.io/pix2pix/) and [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
-* [vid2vid](https://github.com/NVIDIA/vid2vid)
