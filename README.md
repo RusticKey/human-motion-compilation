@@ -7,6 +7,7 @@
   This project page is a collection of papers (and possibly code) that has something to do with human motion and novel view synthesis in 2D and 3D space. There are two major classes of methods when doing it in 2D space:
   * Spatial Transformation (using flow information, etc)
   * Conditioned Generation (pose label map, etc)
+  * Texture-space and Geometry generation (UV correspondence, texture generation, using 3D, etc)
   
 Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose, may be a single picture or a video
