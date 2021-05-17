@@ -39,6 +39,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[SIGGRAPH 2020]** XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera](https://gvv.mpi-inf.mpg.de/projects/XNect/)
 * [**[IEEE FnG+TBIOM 2020]** Head2Head: Video-based Neural Head Synthesis](https://github.com/michaildoukas/head2head)
 * [**[NeurIPS 2020]** Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis](https://www.ye-yuan.com/rfc/)
+* [**[CVPR 2021]** We Are More Than Our Joints: Predicting How 3D Bodies Move](https://yz-cnsdqz.github.io/MOJO/MOJO.html)
 
 ### 3D Human Digitization
 * [**[ICCV 2019]** DeepHuman: 3D Human Reconstruction from a Single Image](http://www.liuyebin.com/deephuman/deephuman.html)
@@ -48,6 +49,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
 * [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding](https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
+* [**[CVPR 2021]** Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/)
 
 ### Datasets
 * [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
@@ -55,6 +57,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [THuman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset)
 * [DFAUST](https://dfaust.is.tue.mpg.de/)
 * [Sizer](https://virtualhumans.mpi-inf.mpg.de/sizer/)
+* [iPER](https://svip-lab.github.io/dataset/iPER_dataset.html)
 
 ## Papers without first-party implementations
 Third party implementations (if any) will be put in second-order bullet points
