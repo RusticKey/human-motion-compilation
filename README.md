@@ -8,6 +8,7 @@
   * Spatial Transformation (using flow information, etc)
   * Conditioned Generation (pose label map, etc)
   * Texture-space and Geometry generation (UV correspondence, texture generation, using 3D, etc)
+  * Feature-space manipulation (Spatial attention, kernels, latent embeddings, etc)
   
 Papers are also split into several sub-categories (ones with the project page):
   * Novel View Synthesis - This category is about rendering/generating an image of a human within another pose, may be a single picture or a video
