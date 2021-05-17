@@ -32,6 +32,7 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** Deep Image Spatial Transformation for Person Image Generation](https://renyurui.github.io/GFLA-web/)
 * [**[arXiv 2020]** Liquid Warping GAN with Attention: A Uniﬁed Framework for Human Image Synthesis](https://www.impersonator.org/work/impersonator-plus-plus.html)
 * [**[CVPR 2021]** Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling](https://arxiv.org/pdf/2103.14338.pdf)
+* [**[CVPR 2021]** Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/)
 
 ### Human Motion Representation, Retargeting, Continuation
 * [**[CVPR 2020]** Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction](https://github.com/limaosen0/DMGNN)
@@ -50,7 +51,6 @@ Papers are also split into several sub-categories (ones with the project page):
 * [**[CVPR 2020]** PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization](https://shunsukesaito.github.io/PIFuHD/)
 * [**[CVPR 2020]** CAPE: Clothed Auto-Person Encoding](https://github.com/QianliM/CAPE)
 * [**[NeurIPS 2020]** Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction](https://github.com/simpleig/Geo-PIFu)
-* [**[CVPR 2021]** Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/)
 
 ### Datasets
 * [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
